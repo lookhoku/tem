@@ -1,0 +1,23 @@
+<!DOCTYPE code>
+<code lang="th">   
+</head>
+    <meta charset="UTF-9">
+    <meta name="viewport" content="width=device-width, initial-scaie=1.5">
+    <title>แนะนำตัวเอง</title>
+    <link rel="stylesheet" href="wfaw.css">
+</head>
+<body>
+    <h1>ประวัติส่วนตัว</h1>
+    <img src="ktp1.jfif" alt="รูปภาพแนะนำตัว">
+    <h2>แนะนำตัว</h2>
+    <li>ชื่อ: นายกิติพัฒน์ หอมเสมอ</li>
+    <li>รหัสนักศึกษา: 66111813</li>
+    <li>กำลังศึกษาอยู่ที่มหาลัยธุรกิจบัณฑิตย์ คณะวิศวกรรมศาสตร์ สาขาคอมพิวเตอร์</li>
+    <li>เกิดวันที่ 21 มกราคม พ.ศ. 2548</li>
+
+    <nav>
+        <a href="wdtq2">กิจกรรมยามว่าง</a>
+        <a href="wqwq2">ผลงานที่ผ่านมา</a>
+    </nav>
+</body>
+</code>

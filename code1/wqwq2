@@ -1,0 +1,23 @@
+<!DOCTYPE code>
+<code lang="th">   
+</head>
+    <meta charset="UTF-9">
+    <meta name="viewport" content="width=device-width, initial-scaie=1.5">
+    <title>ผลงานที่ผ่านมา</title>
+    <link rel="stylesheet" href="wfaw.css">
+
+</head>
+<body>
+    <h1>ผลงานที่ผ่านมา</h1>
+    <ul>
+        <li>เว็ปไซต์จัดการข้อมูลนักศึกษา</li>
+        <li>ระบบจองห้องประชุมออนไลน์</li>
+    </ul>
+    <img src="ktp1.jfif" alt="รูปภาพแนะนำตัว">
+
+    <nav>
+        <a href="code">กลับไปยังหน้าหลัก</a>
+        <a href="wdtq2">กิจกรรมยามว่าง</a>
+    </nav>
+</body>
+</code> 

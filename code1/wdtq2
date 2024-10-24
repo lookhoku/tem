@@ -1,0 +1,25 @@
+<!DOCTYPE code>
+<code lang="th">
+<head>
+    <meta charset="UTF-9">
+    <meta name="viewport" content="width=device-width, initial-scaie=1.5">
+    <link rel="stylesheet" href="wfaw.css">
+    <title>กิจกรรมยามว่างและความสามารถพิเศษ</title>
+</head>
+<body>
+    <h1>กิจกรรมยามว่างและความสามารถพิเศษ</h1>
+    <ul>
+        <li>เล่นบาส</li>
+        <img src="jgaw.jfif" alt="รูปภาพแนะนำตัว">
+        <li>เขียนโปรแกรม</li>
+        <img src="wkcd.jfif" alt="รูปภาพแนะนำตัว">
+        <li>อ่านหนังสือ</li>
+        <img src="owrq.jfif" alt="รูปภาพแนะนำตัว">
+    </ul>
+
+    <nav>
+        <a href="code">กลับไปยังหน้าหลัก</a>
+        <a href="wqwq2">ผลงานที่ผ่านมา</a>
+    </nav>
+</body>
+</code>

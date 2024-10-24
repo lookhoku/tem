@@ -1,0 +1,91 @@
+/* ทำให้ตัวอักษรในหน้าเว็บดูมีระเบียบ */
+body {
+    font-family: 'prompt', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+    color: #444;
+}
+
+/* ตกแต่งหัวข้อหลัก */
+h1 {
+    text-align: center;
+    margin: 20px;
+    color:#da70d6;
+}
+
+/* จัดการสไตล์รูปภาพ */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 12px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2,)
+}
+
+/*จัดการลิสต์รายการ*/
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 14px 0;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+/* ตกแต่งเนวิเกชัน */
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 12px;
+    color: #4169e1;
+    font-weight: bold; 
+}
+
+nav a:hover {
+    color: #ee82ee;    
+}
+
+/* สไตล์สำหรับแต่ละหน้า */
+h2 {
+    margin-left: 20px;
+    color: #444;
+}
+
+p{
+    margin: 0 20px;
+}
+
+/* ตกแต่งลิงก์ */
+a {
+    text-decoration: none;
+    color: #6a5acd;
+}
+
+a:hover {
+    color: #663399;
+}
+
+/* กำหนดวงกว้างของเนื้อหาทั้งหมด */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* ทำให้ทุกหน้าเว็ปมีรูปแบบเดียวกัน */
+body.container {
+    padding: 20px;
+}
